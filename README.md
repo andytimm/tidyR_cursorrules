@@ -1,7 +1,7 @@
 # tidyR_cursorrules
 Iterative tracking of my cursorrules file for Tidyverse R.
 
-A [.cursorrules file](https://dotcursorrules.com/) is a short file included with [Cursor](https://www.cursor.com/), an IDE that integrates LLM features elegantly.
+[Cursor](https://www.cursor.com/), is an IDE that integrates LLM features well. A [.cursorrules file](https://dotcursorrules.com/) is a short prompt file included in project directories to shape the way the AI responds in a way that suits your preferences. 
 
 My broad goal with this file is just to nudge the AI towards best practices for my work, like:
 - Preferring modern tidyverse syntax and approaches to problems (there are plenty of times when data.table or base R are great, just not the focus here).
